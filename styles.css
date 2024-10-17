@@ -1,0 +1,10 @@
+h1 { 
+    color: red;
+}
+
+body {
+    background-image: url("/images/pexels-photo-631477.jpg");
+    background-size: cover;
+    background-position: center bottom;
+    height: 100vh;
+}
